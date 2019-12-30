@@ -1,3 +1,5 @@
+/*java program for array out of bound exception*/
+
 package exceptionPrac;
 import java.lang.Exception;
 import java.util.*;
